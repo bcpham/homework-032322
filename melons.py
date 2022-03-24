@@ -34,4 +34,4 @@ class Melon:
 class Squash(Melon):
     """Squash"""
 
-    
+    def something.prep()
